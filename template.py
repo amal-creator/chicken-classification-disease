@@ -21,7 +21,8 @@ f"src/{project_name}/pipeline/configuration.py",
 "params.yaml",
 "requirements.txt",
 "setup.py",
-"research/trails.ipynb"
+"research/trails.ipynb",
+"templates/index.html"
 
 ]
 
