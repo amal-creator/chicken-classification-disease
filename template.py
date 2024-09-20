@@ -5,7 +5,7 @@ from typing import List
 
 logging.basicConfig(level=logging.INFO , format='[%(asctime)s]: %(message)s:')
 
-project_name = 'cnn-classifier'
+project_name = 'cnnClassifier'
 
 list_of_files = [
 
