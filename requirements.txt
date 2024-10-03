@@ -16,5 +16,5 @@ Flask
 Flask-Cors
 keras
 Adam
-
+sqlite3
 -e .
